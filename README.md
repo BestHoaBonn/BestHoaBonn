@@ -81,8 +81,7 @@
 ## SKILL 🪪
 ![MY Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt3ri&theme=tokyonight&layout=compact)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><
-🌱 I’m currently learning C++, Blender,... for game development and reverse engineering
-
+🌱 I’m currently learning C++, Blender,... 
 ---
 
 <h4> Connect with me🤝: <h4>
