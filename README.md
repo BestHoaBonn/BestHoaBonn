@@ -3,12 +3,11 @@
 
 
 - 🧞 I am a scara .
-- 🔭 I am Translator, Coderr, Cracker
+- 🔭 I am Translator, Coder, Cracker
 - 👯 I love watching anime, especially `POPULAR` anime, e.g., .
+- 😛😛😛😛
 - ⚡ Fun fact: My dream is always to be a astronaut but ehh
-
 ## My Career 📟
-
 <br>
 <details>
 <summary>
