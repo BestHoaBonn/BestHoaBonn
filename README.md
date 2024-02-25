@@ -4,9 +4,9 @@
 
 - 🧞 I am a scara .
 - 🔭 I am Translator, Coder, Cracker
-- 👯 I love watching anime, especially `POPULAR` anime, e.g., .
+- 👯 I love watching anime, especially `POPULAR` anime, e.g., .and bla bla bla
 - 😛😛😛😛
-- ⚡ Fun fact: My dream is always to be a astronaut but ehh
+- ⚡ Fun fact: My dream is always to be a astronaut but ehh life is not that ez
 ## My Career 📟
 <br>
 <details>
@@ -80,14 +80,14 @@
 ## SKILL 🪪
 ![MY Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt3ri&theme=tokyonight&layout=compact)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><
-🌱 I’m currently learning C++, Blender,... 
+🌱 I’m currently learning C++, Blender, Python,... 
 ---
 
 <h4> Connect with me🤝: <h4>
 
 <p>
   <a href="breadeat296@gmail.com">
-    <img align="left" alt="Tsuki Takineko | Gmail" width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+    <img align="left" alt="scara | Gmail" width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
      breadeat296@gmail.com
   </a>
   <br>
